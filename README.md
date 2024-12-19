@@ -1,6 +1,6 @@
 # Mood Tracker
 
-A simple Java application for tracking moods and dreams. This project allows users to log their moods and dream experiences, saving the information to CSV files for future reference.
+(Still somewhat of a WIP) As a student not only in computer science but also in psychology, I decided to somewhat combine the two in making a simple Java application for tracking moods and dreams. This project allows users to log their moods and dream experiences, saving the information to CSV files for future reference.
 
 ## Features
 
